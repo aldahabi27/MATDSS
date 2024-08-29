@@ -1,0 +1,23 @@
+# Ignore MATLAB autosave and backup files
+*.asv
+*~
+
+# Ignore MATLAB crash dump files
+matlab_crash_dump.*
+
+# Ignore MATLAB code analyzer cache files
+*.mlintcache
+
+# Ignore specific MATLAB project files
+*.prj
+*.mlproj
+*.appproj
+
+# Ignore Simulink cache files
+slprj/
+*_grt_rtw/
+
+# Ignore temporary files and folders
+*.log
+*.out
+**/temp/
