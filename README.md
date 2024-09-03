@@ -45,7 +45,7 @@ If you use the MATDSS Application in your research, please cite the following re
 
 1. I. Farhat, E. Ekomwenrenren, J. W. Simpson-Porco, E. Farantatos, M. Patel, and A. Haddadi, "A Multi-Area Architecture for Real-Time Feedback-Based Optimization of Distribution Grids," arXiv [eess.SY], 2024. Available: [https://arxiv.org/abs/2401.09694](https://arxiv.org/abs/2401.09694).
 
-2. I. Farhat, MATDSS Application Ver ##, 2024. Available: [https://github.com/aldahabi27/MATDSS/tree/main](https://github.com/aldahabi27/MATDSS/tree/main).
+2. I. Farhat, MATDSS Application Ver 0.96, 2024. Available: [https://github.com/aldahabi27/MATDSS/tree/main](https://github.com/aldahabi27/MATDSS/tree/main).
 
 3. I. Farhat, "Multi-Area Architecture for Real-Time Feedback-Based Optimization of Distribution Grids," Ph.D. dissertation, Dept. of Electrical and Computer Engineering, Univ. of Waterloo, Waterloo, ON, Canada, 2024. Available: [https://hdl.handle.net/10012/20848](https://hdl.handle.net/10012/20848).
 
