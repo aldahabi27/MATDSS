@@ -1,7 +1,9 @@
 # MATDSS Application
 
-MATDSS Application is a MATLAB-based tool that seamlessly integrates with OpenDSS©, a specialized standalone application for distribution network simulations. OpenDSS© provides an engine that interfaces with MATLAB via a COM interface, enabling efficient communication between the two platforms.
+MATDSS Application is a MATLAB-based tool that seamlessly integrates with [OpenDSS©](https://sourceforge.net/projects/electricdss/), a specialized standalone application for distribution network simulations. OpenDSS© provides an engine that interfaces with MATLAB via a COM interface, enabling efficient communication between the two platforms. To install OpenDSS, you can visit the [official OpenDSS page](https://sourceforge.net/projects/electricdss/) on SourceForge.
 
+To run this application, you will need [MATLAB](https://www.mathworks.com/products/matlab.html), a high-level language and interactive environment for numerical computation, visualization, and programming. You can find more information or get a license from the [official MATLAB website](https://www.mathworks.com/products/matlab.html).
+<!--
 ## Motivation
 
 The development of MATDSS was driven by two main challenges:
@@ -9,7 +11,7 @@ The development of MATDSS was driven by two main challenges:
 1. **Complex Control Framework**: The control framework developed for this research resulted in a highly complex system with numerous parameters to manage. MATDSS addresses this by providing a graphical user interface (GUI) that allows for live monitoring, parameter management, and the ability to enable different components (such as low-pass filters, PD control, and disturbances). MATDSS also allows for modifying control parameters and plotting outputs for control areas and DERs directly within the application. A standout feature of MATDSS is its ability to partition a feeder without altering the simulation files of OpenDSS, thereby managing control actions and time-series simulations from within the same application.
 
 2. **Lack of Time-Series Simulations in OpenDSS**: While OpenDSS is recognized as a standard solver for distribution systems, it lacks built-in time-series simulations for controlled structures like those proposed in this research. Integrating OpenDSS with MATLAB was essential to conduct these simulations and verify the presented work. This integration allows the framework to be easily adapted for different circuits and scales to control multiple areas within a feeder.
-
+-->
 ## Key Features
 
 MATDSS Application was developed to ease the integration of MATLAB with OpenDSS, especially for implementing complex control architectures. The development process focused on the following key features:
