@@ -1,0 +1,53 @@
+LINE CONSTANTS
+Frequency = 60 Hz, Earth resistivity = 100 ohm-m
+Earth Model = Deri
+
+
+--------------------------------------------------
+Geometry Code = 4wire
+
+R MATRIX, ohms per mi
+0.451747, 
+0.155092, 0.460748, 
+0.152645, 0.15713, 0.455637, 
+
+jX MATRIX, ohms per mi
+1.08046, 
+0.503905, 1.05022, 
+0.387268, 0.425796, 1.06732, 
+
+Susceptance (jB) MATRIX, S per mi
+5.68031E-006, 
+-1.83313E-006, 5.98489E-006, 
+-6.9867E-007, -1.1653E-006, 5.4007E-006, 
+
+L MATRIX, mH per mi
+2.86601, 
+1.33665, 2.78578, 
+1.02726, 1.12946, 2.83115, 
+
+C MATRIX, nF per mi
+15.0675, 
+-4.86254, 15.8754, 
+-1.85328, -3.09107, 14.3258, 
+
+-------------------------------------------------------------------
+-------------------Equiv Symmetrical Component --------------------
+-------------------------------------------------------------------
+
+
+Z1, ohms per mi = 0.301088 + j 0.627009 (L1 = 1.66319 mH) 
+Z0, ohms per mi = 0.765955 + j 1.94398 (L0 = 5.15656 mH) 
+
+C1, nF per mi = 18.3585
+C0, nF per mi = 8.55164
+
+Surge Impedance:
+  Positive sequence = 300.99 ohms
+  Zero sequence     = 776.525 ohms
+  Common Mode       = 258.674 ohms
+
+Propagation Velocity (Percent of speed of light):
+  Positive sequence = 97.1489 
+  Zero sequence     = 80.8394 
+
