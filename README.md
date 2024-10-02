@@ -60,6 +60,4 @@ Copyright (c) 2024, Ilyas Farhat
 This application is developed by 'Ilyas Farhat' as part of his research work towards his Ph.D. thesis at the University of Waterloo.
 
 
-<!--
 <meta name="google-site-verification" content="Z25mYn7q42VwL4sBivMvQs33wUQLQUtClwvwJPCPJe4" />
--->
