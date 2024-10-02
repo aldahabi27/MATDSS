@@ -1,9 +1,3 @@
-<head>
-  <meta name="google-site-verification" content="Z25mYn7q42VwL4sBivMvQs33wUQLQUtClwvwJPCPJe4" />
-</head>
-
-
-
 # MATDSS Application
 
 MATDSS Application is a MATLAB-based tool that seamlessly integrates with [OpenDSS©](https://sourceforge.net/projects/electricdss/), a specialized standalone application for distribution network simulations. OpenDSS© provides an engine that interfaces with MATLAB via a COM interface, enabling efficient communication between the two platforms. To install OpenDSS, you can visit the [official OpenDSS page](https://sourceforge.net/projects/electricdss/) on SourceForge.
